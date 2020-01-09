@@ -1,6 +1,4 @@
 const express = require('express');
-const formidable = require('formidable');
-const serveIndex = require('serve-index');
 const app = express();
 const Config = require('./config.json');
 

@@ -1,0 +1,13 @@
+{
+    "Name": "HinkerThinker Index",
+    "Tradeable": false,
+    "valueData": {
+        "lastPrice": 100,
+        "previousClose": 100,
+        "ATH": 100,
+        "ATL": 100
+    },
+    "historicalValues": {
+
+    }
+}

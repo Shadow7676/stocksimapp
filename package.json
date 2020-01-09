@@ -1,0 +1,30 @@
+{
+  "name": "stocksimapp",
+  "version": "1.0.0",
+  "description": "Stock Market Simulator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markskits/stocksimapp.git"
+  },
+  "keywords": [
+    "Mood",
+    "Organizer",
+    "Node.js"
+  ],
+  "author": "Madison Huinker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markskits/stocksimapp/issues"
+  },
+  "homepage": "https://github.com/markskits/stocksimapp#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "express": "^4.17.1",
+    "formidable": "^1.2.1",
+    "serve-index": "^1.9.1"
+  }
+}

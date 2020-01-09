@@ -1,0 +1,23 @@
+{
+    "Server": {
+        "Port": 80,
+        "SSL": {
+            "Enabled": false,
+            "Port": 443,
+            "Keyfile": ""
+        },
+        "enableAPI": false
+    },
+    "userStorage": {
+        "Path": "./Users/"
+    },
+    "Website": {
+        "Registration": {
+            "requirePassword": false,
+            "setSessionCookie": true
+        },
+        "Login": {
+            "setSessionCookie": true
+        }
+    }
+}

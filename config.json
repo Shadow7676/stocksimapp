@@ -6,18 +6,26 @@
             "Port": 443,
             "Keyfile": ""
         },
-        "enableAPI": false
+        "API" : {
+            "Enabled": true,
+            "Port": 81
+        }
     },
     "userStorage": {
         "Path": "./Users/"
     },
     "Website": {
         "Registration": {
-            "requirePassword": false,
+            "requirePassword": true,
             "setSessionCookie": true
         },
         "Login": {
             "setSessionCookie": true
         }
+    },
+    "Bots": {
+        "Enabled": true,
+        "botTradesPerSecond": 10,
+        "botVolatilitySpreadPercent": 0.05
     }
 }

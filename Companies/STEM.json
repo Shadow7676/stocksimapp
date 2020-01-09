@@ -1,0 +1,14 @@
+{
+    "Name": "Science Technology Engineering and Math Education",
+    "Tradeable": true,
+    "valueData": {
+        "totalShares": 10000,
+        "lastPrice": 21.34,
+        "previousClose": 21.34,
+        "ATH": 21.34,
+        "ATL": 21.34
+    },
+    "historicalValues": {
+
+    }
+}

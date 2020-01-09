@@ -3,7 +3,7 @@ const app = express();
 const Config = require('./config.json');
 
 app.post('/getSymbolInfo', (req, res) => {
-    
+    //GetSymbolInfo
 });
 
 if(Config.Server.API.Enabled == true) {
